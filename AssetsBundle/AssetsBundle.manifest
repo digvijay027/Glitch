@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 802256936
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: grid
+      Dependencies: {}
+    Info_1:
+      Name: image
+      Dependencies: {}
